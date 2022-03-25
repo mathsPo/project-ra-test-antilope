@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-antilope/static/css/main.4eeaed58.css",
+    "main.js": "/test-antilope/static/js/main.b63b435a.js",
+    "static/js/787.942552f7.chunk.js": "/test-antilope/static/js/787.942552f7.chunk.js",
+    "static/media/antilope.glb": "/test-antilope/static/media/antilope.14c7cb6d6dc22e620aed.glb",
+    "static/media/stex.png": "/test-antilope/static/media/stex.dac615552b8116def0a7.png",
+    "index.html": "/test-antilope/index.html",
+    "main.4eeaed58.css.map": "/test-antilope/static/css/main.4eeaed58.css.map",
+    "main.b63b435a.js.map": "/test-antilope/static/js/main.b63b435a.js.map",
+    "787.942552f7.chunk.js.map": "/test-antilope/static/js/787.942552f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eeaed58.css",
+    "static/js/main.b63b435a.js"
+  ]
+}
